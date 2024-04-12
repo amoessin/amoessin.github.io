@@ -34,3 +34,8 @@ h2 {
 .vis {
     font-weight: bold;
 }
+
+.spot {
+    position: absolute;
+    left: 50%;
+}
